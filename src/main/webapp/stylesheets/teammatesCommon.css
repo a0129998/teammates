@@ -1106,3 +1106,7 @@ Prevent Long URL From Breaking Out of Container
     float: left;
     margin-right: 5px;
 }
+
+.side-bar-fixed{
+	position: fixed;
+}
